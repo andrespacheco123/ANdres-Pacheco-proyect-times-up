@@ -6,8 +6,8 @@
         <actor id="id417749" prototype="id241529">
           <attributes>
             <point id="position">
-              <real id="x">243</real>
-              <real id="y">158.5</real>
+              <real id="x">240</real>
+              <real id="y">159.5</real>
             </point>
             <size id="size">
               <real id="width">481</real>
