@@ -23,7 +23,7 @@
     <boolean id="preloadArt">true</boolean>
   </attributes>
   <behaviors>
-    <behavior enabled="true" class="RuleBehavior" id="id691181">
+    <behavior id="id691181" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
         <text id="bundleName">Rule.behavior</text>
@@ -44,7 +44,7 @@
         </condition>
       </conditions>
       <behaviors>
-        <behavior enabled="true" class="MoveBehavior" id="id219647">
+        <behavior id="id219647" class="MoveBehavior" enabled="true">
           <attributes>
             <text id="name">Move</text>
             <text id="bundleName">Move.behavior</text>
@@ -56,7 +56,7 @@
         </behavior>
       </behaviors>
     </behavior>
-    <behavior enabled="true" class="RuleBehavior" id="id330694">
+    <behavior id="id330694" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
         <text id="bundleName">Rule.behavior</text>
@@ -77,7 +77,7 @@
         </condition>
       </conditions>
       <behaviors>
-        <behavior enabled="true" class="MoveBehavior" id="id653503">
+        <behavior id="id653503" class="MoveBehavior" enabled="true">
           <attributes>
             <text id="name">Move</text>
             <text id="bundleName">Move.behavior</text>
@@ -89,7 +89,7 @@
         </behavior>
       </behaviors>
     </behavior>
-    <behavior enabled="true" class="RuleBehavior" id="id831992">
+    <behavior id="id831992" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
         <text id="bundleName">Rule.behavior</text>
@@ -110,7 +110,7 @@
         </condition>
       </conditions>
       <behaviors>
-        <behavior enabled="true" class="MoveBehavior" id="id167991">
+        <behavior id="id167991" class="MoveBehavior" enabled="true">
           <attributes>
             <text id="name">Move</text>
             <text id="bundleName">Move.behavior</text>
@@ -122,7 +122,7 @@
         </behavior>
       </behaviors>
     </behavior>
-    <behavior enabled="true" class="RuleBehavior" id="id474077">
+    <behavior id="id474077" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
         <text id="bundleName">Rule.behavior</text>
@@ -143,7 +143,7 @@
         </condition>
       </conditions>
       <behaviors>
-        <behavior enabled="true" class="MoveBehavior" id="id823701">
+        <behavior id="id823701" class="MoveBehavior" enabled="true">
           <attributes>
             <text id="name">Move</text>
             <text id="bundleName">Move.behavior</text>

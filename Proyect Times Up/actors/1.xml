@@ -23,7 +23,7 @@
     <boolean id="preloadArt">true</boolean>
   </attributes>
   <behaviors>
-    <behavior enabled="true" class="RuleBehavior" id="id678479">
+    <behavior id="id678479" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
         <text id="bundleName">Rule.behavior</text>
@@ -45,7 +45,7 @@
         </condition>
       </conditions>
       <behaviors>
-        <behavior enabled="true" class="TimerBehavior" id="id924401">
+        <behavior id="id924401" class="TimerBehavior" enabled="true">
           <attributes>
             <text id="name">Timer</text>
             <text id="bundleName">Timer.behavior</text>
@@ -54,7 +54,7 @@
             <boolean id="runToCompletion">false</boolean>
           </attributes>
           <behaviors>
-            <behavior enabled="true" class="ChangeAttributeAction" id="id523905">
+            <behavior id="id523905" class="ChangeAttributeAction" enabled="true">
               <attributes>
                 <text id="name">Change Attribute</text>
                 <text id="bundleName">ChangeAttribute.behavior</text>
@@ -71,7 +71,7 @@
         </behavior>
       </behaviors>
     </behavior>
-    <behavior enabled="true" class="RuleBehavior" id="id169025">
+    <behavior id="id169025" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
         <text id="bundleName">Rule.behavior</text>
@@ -93,7 +93,7 @@
         </condition>
       </conditions>
       <behaviors>
-        <behavior enabled="true" class="DisplayTextBehavior" id="id534053">
+        <behavior id="id534053" class="DisplayTextBehavior" enabled="true">
           <attributes>
             <text id="name">Display Text</text>
             <text id="bundleName">DisplayText.behavior</text>
